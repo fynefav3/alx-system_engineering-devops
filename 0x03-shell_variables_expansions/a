@@ -1,0 +1,2 @@
+#!/bin/bash
+alias = "git add . git commit -m 'This task is for shell pernmission' git push"
